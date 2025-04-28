@@ -8,6 +8,7 @@ dependencies = [
     "click>=8.1.8",
 ]
 
+
 [dependency-groups]
 dev = [
     "ruff>=0.11.7",
